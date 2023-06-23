@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 const coin = document.querySelector('#coin');
 const button = document.querySelector('#flip');
 const status = document.querySelector('#status');
